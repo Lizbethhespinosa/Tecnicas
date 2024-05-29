@@ -1,0 +1,79 @@
+#compra{
+    display: none;
+}
+#venta{
+    display: none;
+}
+#inicio{
+    display: block;
+}
+#casas{
+    display: none;
+}
+#aptos{
+    display: none;
+}
+#estudios{
+    display: none;
+}
+#terrenos{
+    display: none;
+}
+#ingresoUsuario{
+    display: none;
+}
+#ingreso{
+    display: none;
+}
+#crearUsuario{
+    display: none;
+}
+#creacionExitosa{
+    display: none;
+}
+#ingresoUsuarioVenta{
+    display: none;
+}
+#ingresoVenta{
+    display: none;
+}
+#crearUsuarioVenta{
+    display: none;
+}
+#creacionExitosaVenta{
+    display: none;
+}
+#ingresoUsuarioPrincipal{
+    display: none;
+}
+#ingresoPrincipal{
+    display: none;
+}
+#crearUsuarioPrincipal{
+    display: none;
+}
+
+#facturacion{
+    display: none;
+}
+#cierreCompra{
+    display: none;
+}
+#datosVenta{
+    display: none;
+}
+#cierreOferta{
+    display: none;
+}
+#registro{
+    display: none;
+}
+#ingresoDatos{
+    display: none;
+}
+#general{
+    display: none;
+}
+#pantallaSubasta{
+    display: none;
+}

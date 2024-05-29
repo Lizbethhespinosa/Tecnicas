@@ -1,0 +1,10 @@
+com\mycompany\dao\InmobiliariaDAO.class
+com\mycompany\servlets\mostrarServlet.class
+com\mycompany\servlets\registroServlet.class
+com\mycompany\mavenproject4\JakartaRestConfiguration.class
+com\mycompany\servlets\inmuebleServlet.class
+com\mycompany\servlets\Test.class
+com\mycompany\dao\ClienteDAO.class
+com\mycompany\mavenproject4\resources\JakartaEE8Resource.class
+com\mycompany\model\Cliente.class
+com\mycompany\model\Inmobiliaria.class

@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(215, 216, 210);
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+#inicio{
+    width: 500px;
+    height: 550px;
+    background-color: rgb(147, 148, 141) ;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+}
+#tituloInicio{
+    margin-top: 60px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}   
+#botones1{
+    margin-top: 50px;
+}
+#botones2{
+    margin-top: 80px;
+}
+#imagenUsuario{
+    height: 50px;
+}
+#btUsuario{
+    height: 60px;
+    background-color: rgb(0, 0, 0, 0);
+    border: none;
+    margin: 20px;
+}
+#ingresoUsuarioPrincipal{
+    background-color: rgb(147, 148, 141);
+    width: 500px;
+    height: 630px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+}
+.titulosIngreso{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:50px;
+    margin-top: 70px;
+}
+.btGeneral{
+    width: 200px;
+    height: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:large;
+    background-color:rgb(147, 144, 197) ;
+    border-radius: 50px;
+}
+.imagenAtras {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(0, 0, 0, 0);
+    margin-top: 0%;
+    
+}
+.btAtras{
+    height: 50px;
+    background-color: rgb(0, 0, 0, 0);
+    border: none;
+    margin: 20px;
+}
+#ingresoPrincipal{
+    background-color: rgb(147, 148, 141);
+    width: 500px;
+    height: 630px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+#cajon1{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+#botones3 {
+    display: flex; 
+    align-items: center; 
+    width: 120px; 
+    height: 50px;
+    padding: 10px;
+    margin-left: 250px;
+    margin-top: 30px;
+}
+.inputDatos{
+    width: 250px;
+    height: 25px;
+}
